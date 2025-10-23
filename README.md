@@ -1,7 +1,7 @@
 <!-- 
 ====================================================================================================
-Hi Kishore! This version focuses on reliability and adds a creative typing animation plus the profile views counter.
-Removed Streak/Tweet. Kept Trophies, Stats, Languages, Tech Stack, Socials.
+Hi Kishore! Removed the visitor count, kept the typing animation, and added the contribution snake game.
+Focusing on reliable and visually engaging elements.
 ====================================================================================================
 -->
 
@@ -13,6 +13,11 @@ Removed Streak/Tweet. Kept Trophies, Stats, Languages, Tech Stack, Socials.
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7A2&center=true&vCenter=true&width=435&lines=Passionate+Java+Full+Stack+Developer;Microservices+Enthusiast;Always+Learning+DevOps+%26+Cloud;Based+in+Bangalore" alt="Typing SVG" />
   </a>
 </p>
+
+<!-- Contribution Snake Animation -->
+<div align="center">
+  <img src="https://github.com/kishoredhondhu/kishoredhondhu/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
+</div>
 
 <br>
 
@@ -27,13 +32,6 @@ I'm focused on learning **AWS** and **DevOps** to build and deploy scalable appl
 I'm interested in Cloud Native technologies, DevOps practices, and building robust systems.
 
 <br>
-
-<!-- Visitor Count -->
-<div align="center">
-  <h3>👀 Visitor Count</h3>
-  <img src="https://profile-counter.glitch.me/kishoredhondhu/count.svg" alt="Visitor Count" />
-  <p>Thank you for visiting!</p>
-</div>
 
 ---
 
