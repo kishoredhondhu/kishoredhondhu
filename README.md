@@ -102,22 +102,17 @@ I'm interested in Cloud Native technologies, DevOps practices, and building robu
   </a>
 </p>
 
-<!-- 
-====================================================================================================
-Optional Sections (Uncomment by removing <!-- and --> lines if you want to try them again)
-====================================================================================================
--->
 
-<!-- Contribution Streak (Might be unstable)
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kishoredhondhu&theme=tokyonight&hide_border=false" alt="Contribution Streak" />
 </p>
--->
 
-<!-- Latest Tweet (Might be unstable)
+
+
 <p align="center">
   <a href="https://github.com/VishwaGauravIn/github-twitter-card-embed">
     <img src="https://gtce.itsvg.in/api?username=kishor__2" alt="Latest Tweet" />
   </a>
 </p>
--->
+
