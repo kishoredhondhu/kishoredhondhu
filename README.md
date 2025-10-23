@@ -1,4 +1,4 @@
-# Hi 👋, I'm Kishore Dhondhu
+# Hi 👋, I'm Kishore 
 
 **Hi folks, I am Java Full Stack Developer with the knowledge of Micro Service architecture.**
 
