@@ -1,12 +1,18 @@
 <!-- 
 ====================================================================================================
-Hi Kishore! This is a revised version focusing on reliable elements.
-I've kept the Trophies and core Stats, and commented out the potentially unstable Streak/Tweet cards.
+Hi Kishore! This version focuses on reliability and adds a creative typing animation plus the profile views counter.
+Removed Streak/Tweet. Kept Trophies, Stats, Languages, Tech Stack, Socials.
 ====================================================================================================
 -->
 
 <h1 align="center">Hi 👋, I'm Kishore</h1>
-<h3 align="center">A passionate Java Full Stack Developer</h3>
+
+<!-- Typing Animation -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7A2&center=true&vCenter=true&width=435&lines=Passionate+Java+Full+Stack+Developer;Microservices+Enthusiast;Always+Learning+DevOps+%26+Cloud;Based+in+Bangalore" alt="Typing SVG" />
+  </a>
+</p>
 
 <br>
 
@@ -22,14 +28,19 @@ I'm interested in Cloud Native technologies, DevOps practices, and building robu
 
 <br>
 
-<!-- Visitor Count & Trophies -->
+<!-- Visitor Count -->
 <div align="center">
-  <h3>🏆 GitHub Trophies & Visitor Count</h3>
-  <p>
-    <img src="https://profile-counter.glitch.me/kishoredhondhu/count.svg" alt="Visitor Count" />
-    <br><br>
-    <img src="https://github-profile-trophy.vercel.app/?username=kishoredhondhu&theme=flat&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-  </p>
+  <h3>👀 Visitor Count</h3>
+  <img src="https://profile-counter.glitch.me/kishoredhondhu/count.svg" alt="Visitor Count" />
+  <p>Thank you for visiting!</p>
+</div>
+
+---
+
+<!-- GitHub Trophies -->
+<div align="center">
+  <h3>🏆 GitHub Trophies</h3>
+  <img src="https://github-profile-trophy.vercel.app/?username=kishoredhondhu&theme=flat&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -70,8 +81,7 @@ I'm interested in Cloud Native technologies, DevOps practices, and building robu
 <p align="center">
   <!-- Full Stats Card -->
   <img src="https://github-readme-stats.vercel.app/api?username=kishoredhondhu&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Kishore's GitHub Stats" />
-</p>
-<p align="center">
+  &nbsp;&nbsp;&nbsp;
   <!-- Top Languages Card -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishoredhondhu&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
@@ -101,18 +111,3 @@ I'm interested in Cloud Native technologies, DevOps practices, and building robu
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
-
-
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kishoredhondhu&theme=tokyonight&hide_border=false" alt="Contribution Streak" />
-</p>
-
-
-
-<p align="center">
-  <a href="https://github.com/VishwaGauravIn/github-twitter-card-embed">
-    <img src="https://gtce.itsvg.in/api?username=kishor__2" alt="Latest Tweet" />
-  </a>
-</p>
-
