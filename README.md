@@ -5,10 +5,16 @@
   </a>
 </div>
 
-<p align="center">
-  I am a <b>Systems Engineer</b> passionate about solving complex algorithmic problems and building end-to-end applications.<br>
-  Currently bridging the gap between efficient code (DSA) and robust deployment (DevOps).
-</p>
+<div align="center">
+  <p>
+    I am a <b>Systems Engineer</b> passionate about solving complex algorithmic problems and building end-to-end applications.<br>
+    Currently bridging the gap between efficient code (DSA) and robust deployment (DevOps).
+  </p>
+  
+  <a href="https://kishored.me" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-kishored.me-7000FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+</div>
 
 <br/>
 
@@ -59,10 +65,10 @@
 ---
 
 <div align="center">
-<h3 align="center">📊 GitHub Analytics</h3>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kishoredhondhu&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+  <h3 align="center">📊 GitHub Analytics</h3>
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kishoredhondhu&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </p>
 </div>
 
 <br/>
@@ -78,6 +84,9 @@
 <div align="center">
   <h3>🤝 Let's Connect</h3>
   <p>
+    <a href="https://kishored.me" target="_blank">
+      <img src="https://img.shields.io/badge/Website-kishored.me-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
+    </a>
     <a href="https://www.linkedin.com/in/dhondhukishore" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
