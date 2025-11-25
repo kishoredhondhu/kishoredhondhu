@@ -47,7 +47,7 @@
   <h3>🛠️ Technical Arsenal</h3>
   
   <p><b>Languages & Core</b></p>
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,cpp&theme=dark" height="50" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=java,javascript,typescript&theme=dark" height="50" alt="Languages" />
   
   <br/>
 
