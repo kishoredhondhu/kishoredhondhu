@@ -1,14 +1,13 @@
 <div align="center">
   <h1 align="center">Hi 👋, I'm Kishore</h1>
-  
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Systems+Engineer+%40+Infosys;Java+Full+Stack+Developer;Microservices+Enthusiast;Building+Scalable+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=20C20E&center=true&vCenter=true&width=600&lines=Systems+Engineer+%40+Infosys;Full+Stack+%2B+DevOps+Practitioner;Competitive+Programmer+(Java);Building+Scalable+Solutions" alt="Typing SVG" />
   </a>
 </div>
 
 <p align="center">
-  I am a passionate developer focused on <b>Java Spring Boot</b>, <b>Microservices</b>, and <b>DevOps</b>. <br/>
-  Currently bridging the gap between development and operations to build robust systems.
+  I am a <b>Systems Engineer</b> passionate about solving complex algorithmic problems and building end-to-end applications.<br>
+  Currently bridging the gap between efficient code (DSA) and robust deployment (DevOps).
 </p>
 
 <br/>
@@ -19,15 +18,15 @@
       <td align="left" width="50%">
         <h3>🔭 Current Focus</h3>
         <ul>
-          <li>Developing a <b>Finance Tracker</b> (Microservices)</li>
-          <li>Deep dive into <b>System Design</b> (HLD/LLD)</li>
+          <li><b>Competitive Programming:</b> Refining logic with DSA in Java.</li>
+          <li><b>Full Stack Dev:</b> Integrating Spring Boot with React & Cloud tools.</li>
         </ul>
       </td>
       <td align="left" width="50%">
         <h3>🌱 Learning Goals</h3>
         <ul>
-          <li><b>AWS Cloud</b> Architecture</li>
-          <li>Advanced <b>DevOps</b> Pipelines</li>
+          <li><b>Advanced DevOps:</b> CI/CD pipelines, Kubernetes, and Docker.</li>
+          <li><b>Cloud Architecture:</b> Designing scalable AWS solutions.</li>
         </ul>
       </td>
     </tr>
@@ -39,20 +38,20 @@
 ---
 
 <div align="center">
-  <h3>🛠️ Technical Stack</h3>
+  <h3>🛠️ Technical Arsenal</h3>
   
-  <p><b>Backend Core</b></p>
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,postgres,maven,swagger&theme=dark" />
+  <p><b>Languages & Core</b></p>
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,cpp&theme=dark" height="50" alt="Languages" />
   
-  <br/><br/>
+  <br/>
 
-  <p><b>Frontend Interface</b></p>
-  <img src="https://skillicons.dev/icons?i=react,redux,js,ts,html,css,bootstrap,materialui&theme=dark" />
+  <p><b>Full Stack Frameworks</b></p>
+  <img src="https://skillicons.dev/icons?i=spring,hibernate,react,redux,html,css,bootstrap,materialui&theme=dark" height="50" alt="Frameworks" />
 
-  <br/><br/>
+  <br/>
 
-  <p><b>DevOps & Tools</b></p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,git,postman,idea,vscode&theme=dark" />
+  <p><b>DevOps, Cloud & Tools</b></p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,git,linux,postman,mysql,postgres&theme=dark" height="50" alt="DevOps" />
 </div>
 
 <br/>
@@ -60,23 +59,21 @@
 ---
 
 <div align="center">
-<div align="center">
   <h3>📊 GitHub Analytics</h3>
   <br>
   <a href="https://github.com/kishoredhondhu">
-    <img src="https://github-readme-stats.vercel.app/api?username=kishoredhondhu&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150" alt="Stats Graph" />
+    <img src="https://github-readme-stats.vercel.app/api?username=kishoredhondhu&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150" alt="Stats" />
   </a>
   &nbsp;
   <a href="https://github.com/kishoredhondhu">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishoredhondhu&layout=compact&theme=dark&hide_border=true" height="150" alt="Languages Graph" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishoredhondhu&layout=compact&theme=dark&hide_border=true&langs_count=6" height="150" alt="Languages" />
   </a>
-</div>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/kishoredhondhu/kishoredhondhu/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%" />
+  <img src="https://raw.githubusercontent.com/kishoredhondhu/kishoredhondhu/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
 </div>
 
 <br/>
@@ -85,7 +82,7 @@
 
 <div align="center">
   <h3>🤝 Let's Connect</h3>
-  <p align="center">
+  <p>
     <a href="https://www.linkedin.com/in/dhondhukishore" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
@@ -99,6 +96,8 @@
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
   </p>
-  <p>Visitor Count</p>
+  
+  <br>
+  
   <img src="https://komarev.com/ghpvc/?username=kishoredhondhu&label=Profile%20Views&color=0e75b6&style=flat" alt="visitor count" />
 </div>
