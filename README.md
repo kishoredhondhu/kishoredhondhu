@@ -60,11 +60,17 @@
 ---
 
 <div align="center">
+<div align="center">
   <h3>📊 GitHub Analytics</h3>
-  <div style="display: flex; justify-content: center; gap: 10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=kishoredhondhu&show_icons=true&theme=transparent&hide_border=true&title_color=36BCF7&text_color=9f9f9f&icon_color=36BCF7&count_private=true" height="150" alt="stats graph" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishoredhondhu&layout=compact&theme=transparent&hide_border=true&title_color=36BCF7&text_color=9f9f9f" height="150" alt="languages graph" />
-  </div>
+  <br>
+  <a href="https://github.com/kishoredhondhu">
+    <img src="https://github-readme-stats.vercel.app/api?username=kishoredhondhu&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150" alt="Stats Graph" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/kishoredhondhu">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishoredhondhu&layout=compact&theme=dark&hide_border=true" height="150" alt="Languages Graph" />
+  </a>
+</div>
 </div>
 
 <br/>
