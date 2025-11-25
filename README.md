@@ -1,111 +1,86 @@
-<!-- 
-====================================================================================================
-Hi Kishore! Removed the visitor count, kept the typing animation, and added the contribution snake game.
-Focusing on reliable and visually engaging elements.
-====================================================================================================
--->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Kishore+👋;Java+Full+Stack+Developer;Systems+Engineer;Microservices+Enthusiast" alt="Typing SVG" />
+</div>
 
-<h1 align="center">Hi 👋, I'm Kishore</h1>
+<br/>
 
-<!-- Typing Animation -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7A2&center=true&vCenter=true&width=435&lines=Passionate+Java+Full+Stack+Developer;Microservices+Enthusiast;Always+Learning+DevOps+%26+Cloud;Based+in+Bangalore" alt="Typing SVG" />
+<div align="center">
+  I am a passionate <b>Java Full Stack Developer</b> and <b>Systems Engineer</b> based in Bangalore. I specialize in building scalable microservices and am currently diving deep into Cloud Native technologies and DevOps practices.
+</div>
+
+<br/>
+
+<div align="center">
+  <table>
+    <tr>
+      <td valign="top" width="50%">
+        <h3>🔭 Current Focus</h3>
+        <ul>
+          <li>Building a <b>Finance Tracker</b> (Spring Boot + React)</li>
+          <li>Optimizing SQL queries for high-volume data</li>
+        </ul>
+      </td>
+      <td valign="top" width="50%">
+        <h3>🌱 Learning Journey</h3>
+        <ul>
+          <li>Mastering <b>AWS</b> (EC2, S3, Lambda)</li>
+          <li>Implementing CI/CD pipelines with <b>DevOps</b> tools</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+  <h3>💻 Technical Arsenal</h3>
+  
+  <img src="https://skillicons.dev/icons?i=java,javascript,typescript,html,css&theme=dark" alt="Languages" />
+  <br/><br/>
+  
+  <img src="https://skillicons.dev/icons?i=spring,react,bootstrap,materialui,redux&theme=dark" alt="Frameworks" />
+  <br/><br/>
+  
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,hibernate,maven&theme=dark" alt="Backend" />
+  <br/><br/>
+  
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,linux,postman,idea,vscode&theme=dark" alt="DevOps" />
+</div>
+
+---
+
+<div align="center">
+  <h3>📊 GitHub Analytics</h3>
+  <br>
+  <a href="https://github.com/kishoredhondhu">
+    <img src="https://github-readme-stats.vercel.app/api?username=kishoredhondhu&show_icons=true&theme=transparent&rank_icon=github&count_private=true" height="160px" alt="Stats Graph" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishoredhondhu&layout=compact&theme=transparent&langs_count=8" height="160px" alt="Languages Graph" />
   </a>
-</p>
-
-<!-- Contribution Snake Animation -->
-<div align="center">
-  <img src="https://github.com/kishoredhondhu/kishoredhondhu/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
 </div>
 
-<br>
+<br/>
 
-<!-- About Me Sections -->
-## 🔭 I'm currently working on
-Currently working on the **Finance Tracker website** using Java Spring Boot, React, and a SQL Database.
-
-## 🌱 I'm currently learning
-I'm focused on learning **AWS** and **DevOps** to build and deploy scalable applications.
-
-## 👀 I'm interested in
-I'm interested in Cloud Native technologies, DevOps practices, and building robust systems.
-
-<br>
-
----
-
-<!-- GitHub Trophies -->
 <div align="center">
-  <h3>🏆 GitHub Trophies</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=kishoredhondhu&theme=flat&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kishoredhondhu&theme=flat&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
 </div>
 
 ---
 
-<!-- Tech Stack -->
-<h3 align="center">💻 Tech Stack</h3>
 <div align="center">
-  <strong>Languages:</strong>
-  <p>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=java,javascript,typescript" />
-    </a>
-  </p>
-  <strong>Frontend:</strong>
-  <p>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,materialui" />
-    </a>
-  </p>
-  <strong>Backend & Databases:</strong>
-  <p>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=spring,mysql,swagger" />
-    </a>
-  </p>
-  <strong>DevOps & Tools:</strong>
-  <p>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=docker,git,postman,linux,aws" />
-    </a>
-  </p>
+  <img src="https://github.com/kishoredhondhu/kishoredhondhu/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%" />
 </div>
 
 ---
 
-<!-- GitHub Stats -->
-<h3 align="center">📊 My GitHub Stats</h3>
-<p align="center">
-  <!-- Full Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=kishoredhondhu&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Kishore's GitHub Stats" />
-  &nbsp;&nbsp;&nbsp;
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishoredhondhu&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
-<!-- Connect with Me -->
-<h3 align="center">🌐 Connect with Me</h3>
-<p align="center">
-  <!-- Social Badges -->
-  <a href="https://www.linkedin.com/in/dhondhukishore" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>&nbsp;
-  <a href="https://github.com/kishoredhondhu" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>&nbsp;
-  <a href="https://medium.com/@kishoredhondhu" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white" alt="Medium">
-  </a>&nbsp;
-  <a href="https://hashnode.com/@kishoredhondhu" target="_blank">
-    <img src="https://img.shields.io/badge/Hashnode-%232962FF.svg?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode">
-  </a>&nbsp;
-  <a href="https://x.com/kishor__2" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter">
-  </a>&nbsp;
-  <a href="mailto:kishoredhondhu@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
+<div align="center">
+  <h3>🤝 Let's Connect</h3>
+  <p>
+    <a href="https://www.linkedin.com/in/dhondhukishore" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a href="https://github.com/kishoredhondhu" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+    <a href="https://medium.com/@kishoredhondhu" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
+    <a href="mailto:kishoredhondhu@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  </p>
+</div>
